@@ -1,0 +1,7 @@
+c c c 2A 
+v v v 3C
+b b b 4Bd d d 3A 
+a a a 5A 
+a a a 13C 
+b b b 10B 
+c c c 11A 
